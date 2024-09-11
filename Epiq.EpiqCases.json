@@ -875,7 +875,7 @@
   },
   "caseNumber": "CA4790",
   "caseName": "Wells Fargo DCO (Debit Card Option)",
-  "caseNotes": "\nDCO2 CHECKS > $3,000.00 WILL BE MAILING FED EX\n\nCheck - Initial (Pilot) - Z788, Check - VS Payment (English) Z967, Deceased Check EN - AA283, Deceased Check SP - AA284,  Initial Payment SP - AA297, Charge Off Check EN - AA402, Charge Off Check SP - AA459, Card Fee Payment - AD831 , Second Payment - AC233\n\nCUSTOM ENVELOPES -\nChecks (#10) - Stock #: CA8517;  FED EX  CA8468; USPS PRIORITY EP14H\n"
+  "caseNotes": "DCO2 CHECKS > $3,000.00 WILL BE MAILING FED EX\n\nCheck - Initial (Pilot) - Z788, Check - VS Payment (English) Z967, \nDeceased Check EN - AA283, Deceased Check SP - AA284,  \nInitial Payment SP - AA297, Charge Off Check EN - AA402, \nCharge Off Check SP - AA459, Card Fee Payment - AD831 , \nSecond Payment - AC233\nCUSTOM ENVELOPES -\nChecks (#10) - Stock #: CA8517;  FED EX  CA8468; USPS PRIORITY EP14H\n"
 },
 {
   "_id": {
@@ -4465,7 +4465,7 @@
   },
   "caseNumber": "CA40052052",
   "caseName": "Wells Fargo DCO Small Business",
-  "caseNotes": "SPECIAL INSTRUCTIONS:  Enhanced PDF on demand (only) by the CS Team\n\nCHECKS > $3,000.00 WILL BE MAILING FED EX/USPS PRIORITY\n\nBATCH REISSUES PER MAILING TYPE (FED EX (X), PRIORITY (R), FIRST CLASS)\n\nCheck - Initial AE552, Closed Accounts AE607, Closed Account100-S AE565, Closed Account CheckwEWS131F-AA - AE637, Chk_wEWS102E-S AE635, VSP English AE638, VSP Spanish AE633\n\nCUSTOM ENVELOPES - First Class: CA8596 - FED EX  CA8468 - USPS PRIORITY - EP14H\n\nFED EX AND USPS PRIORITY MUST BE DROPPED TO PRINT AT LEAST 1 DAY IN ADVANCE\n\n\n"
+  "caseNotes": "SPECIAL INSTRUCTIONS:  Enhanced PDF on demand (only) by the CS Team \nCHECKS > $3,000.00 WILL BE MAILING FED EX/USPS PRIORITY\n\nBATCH REISSUES PER MAILING TYPE (FED EX (X), PRIORITY (R), FIRST CLASS) Check - Initial AE552, \nClosed Accounts AE607, Closed Account100-S AE565, Closed Account CheckwEWS131F-AA - AE637, \nChk_wEWS102E-S AE635, VSP English AE638, VSP Spanish AE633\n\nCUSTOM ENVELOPES - First Class: CA8596 - FED EX  CA8468 - USPS PRIORITY - EP14H\n\nFED EX AND USPS PRIORITY MUST BE DROPPED TO PRINT AT LEAST 1 DAY IN ADVANCE"
 },
 {
   "_id": {
@@ -4512,7 +4512,7 @@
     "$oid": "64c30b9f8b29a37f13e0256e"
   },
   "caseNumber": "CA40051492",
-  "caseName": "WF Fraud Hold 2 ",
+  "caseName": "WF Fraud Hold 2",
   "caseNotes": "Special Instructions:  Enhanced PDFs on Initial phase and demand (only) by the CS Team\n\nMailing Instructions: USPS First Class and Manual FedEx label on demand by the CS Team\n\nCustom Envelopes - USPS First Class: CA8615  - FedEx  CA8468 - USPS Priority - EP14H\n\nFED EX AND USPS PRIORITY MUST BE DROPPED TO PRINT AT LEAST 1 DAY IN ADVANCE\n"
 },
 {
@@ -5752,4 +5752,21 @@
   },
   "caseNumber": "GCGCEA",
   "caseName": "Collins & Aikman Egleston Class Settlement"
+},
+{
+  "_id": {
+    "$oid": "6619c35b3c097374ddfc9a39"
+  },
+  "caseNumber": "CA40061433",
+  "caseName": "Wells Fargo AOP SP 201",
+  "caseNotes": "CUSTOM ENVELOPE: CA8630\nBRE is payment type specific. Client Services will let us know in the SR and CHAP \nany time a payment requires a BRE. BRE is Material CA8528\nAccount            Descriptor\n4945800993       AOP-Insur Multi CR Customer Complaints 1\n4945800985       AOP- Multi CR Remediation 1\n4945800977       AOP-Insurance Multi CR Remediation 1\n4945800969       AOP- ITP/EITP DDA\n4945795052       AOP-TBD Usage\n4945795060       AOP-ITP/EITP CUSTOMER COMPLAINTS\n4945795078       AOP- Multi CR CUSTOMER COMPLAINTS 1\n4945795086       AOP- CDP Customer Complaints\n4945795094       AOP-CDP DDA\n4393816280       AOP-Insur Multi CR Customer Complaints 2",
+  "_class": "com.remediation.epiq.model.EpiqCase"
+},
+{
+  "_id": {
+    "$oid": "66a1325b01eb603de8249846"
+  },
+  "caseNumber": "CA40072457",
+  "caseName": "Sendwave Consent Order",
+  "caseNotes": "CA40072457 - Account ending in 3173\nCustom #10 Envelope CA8649"
 }]

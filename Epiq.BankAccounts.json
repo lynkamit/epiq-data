@@ -1,6 +1,294 @@
 [{
   "_id": {
-    "$oid": "64c30f228b29a37f13e0260f"
+    "$oid": "654a994379de4159514ca913"
+  },
+  "caseName": "Chase Prepaid Card",
+  "caseNumber": "CA9796",
+  "accountNumber": 182121290,
+  "routingNumber": 21000021,
+  "currency": "USD",
+  "bankInstitute": "JP Morgan Chase",
+  "accountName": "JPMorgan Chase Bank",
+  "jobMonitor": "Pre-Prod",
+  "aCHFileID  ": "Not applicable",
+  "aCHCompanyID ": "Not applicable",
+  "uploadLocation": "Not applicable",
+  "dBLeadAnalyst": "Valerie Jech",
+  "projectCoordinator": "TeamBrei@epiqglobal.com",
+  "projectManager": "TeamBrei@epiqglobal.com",
+  "ccEmail": "Brittany.Cudworth@epiqglobal.com"
+},
+{
+  "_id": {
+    "$oid": "654a994379de4159514ca914"
+  },
+  "caseName": "MBUSA Incentive Program",
+  "caseNumber": "CA40060252",
+  "accountNumber": 899213919,
+  "routingNumber": 21000021,
+  "currency": "USD",
+  "bankInstitute": "JP Morgan Chase",
+  "accountName": "JPMorgan Chase Bank",
+  "jobMonitor": "Pre-Prod",
+  "aCHFileID  ": "Not applicable",
+  "aCHCompanyID ": "Not applicable",
+  "uploadLocation": "Not applicable",
+  "dBLeadAnalyst": "Emad Albidah",
+  "projectCoordinator": "rosemarie.hardina@epiqglobal.com",
+  "projectManager": "Kristie.Livingston@epiqglobal.com",
+  "ccEmail": "jacob.Putnam@epiqglobal.com"
+},
+{
+  "_id": {
+    "$oid": "654a994379de4159514ca915"
+  },
+  "caseName": "CitiDirect",
+  "caseNumber": "CA8757",
+  "accountNumber": 38775573,
+  "routingNumber": 31100209,
+  "currency": "USD",
+  "bankInstitute": "Citibank",
+  "accountName": "CitiDirect",
+  "jobMonitor": "Pre-Prod",
+  "aCHFileID  ": "Not applicable",
+  "aCHCompanyID ": "Not applicable",
+  "uploadLocation": "Not applicable",
+  "dBLeadAnalyst": "Daneen/Valerie",
+  "projectCoordinator": "TeamTylerHanlon@epiqglobal.com",
+  "projectManager": "TeamTylerHanlon@epiqglobal.com",
+  "ccEmail": "atylerhanlon@epiqglobal.com"
+},
+{
+  "_id": {
+    "$oid": "654a994379de4159514ca916"
+  },
+  "caseName": "KeyBank - Master Project",
+  "caseNumber": "CA40054967",
+  "accountNumber": {
+    "$numberLong": "359951044007"
+  },
+  "routingNumber": 21300077,
+  "currency": "USD",
+  "bankInstitute": "Key Bank ",
+  "accountName": "Key Bank ",
+  "jobMonitor": "Pre-Prod",
+  "aCHFileID  ": "Not applicable",
+  "aCHCompanyID ": "Not applicable",
+  "uploadLocation": "Not applicable",
+  "projectCoordinator": "TeamHamershock@epiqglobal.com",
+  "projectManager": "TeamHamershock@epiqglobal.com",
+  "ccEmail": "Shanna.Hamershock@epiqglobal.com"
+},
+{
+  "_id": {
+    "$oid": "654a994379de4159514ca917"
+  },
+  "caseName": "KeyBank Weekend Holiday Payments Remediation",
+  "caseNumber": "CA40049424",
+  "accountNumber": 1893802582,
+  "routingNumber": 44000024,
+  "currency": "USD",
+  "bankInstitute": "Huntington",
+  "accountName": "Huntington",
+  "jobMonitor": "Pre-Prod",
+  "aCHFileID  ": "Not applicable",
+  "aCHCompanyID ": "Not applicable",
+  "uploadLocation": "Not applicable",
+  "projectCoordinator": "TeamHamershock@epiqglobal.com",
+  "projectManager": "TeamHamershock@epiqglobal.com",
+  "ccEmail": "Shanna.Hamershock@epiqglobal.com"
+},
+{
+  "_id": {
+    "$oid": "654a994379de4159514ca918"
+  },
+  "caseName": "Nationstar - Mr Cooper Escrow Settlement",
+  "caseNumber": " CA40047903",
+  "accountNumber": {
+    "$numberLong": "4021278183"
+  },
+  "routingNumber": 21313103,
+  "currency": "USD",
+  "bankInstitute": "Citizens",
+  "accountName": "Citizens",
+  "jobMonitor": "Pre-Prod",
+  "aCHFileID  ": "Not applicable",
+  "aCHCompanyID ": "Not applicable",
+  "uploadLocation": "Not applicable",
+  "dBLeadAnalyst": "All Team",
+  "projectCoordinator": "TeamGarrett@epiqglobal.com",
+  "projectManager": "TeamGarrett@epiqglobal.com",
+  "ccEmail": "noah.garrett@epiqglobal.com"
+},
+{
+  "_id": {
+    "$oid": "654a994379de4159514ca919"
+  },
+  "caseName": "Nationstar-Mr Cooper CFPB-AG Consent Ord",
+  "caseNumber": "CA40045404",
+  "accountNumber": {
+    "$numberLong": "1000263013194"
+  },
+  "routingNumber": 63102152,
+  "currency": "USD",
+  "bankInstitute": "SunTrust (Truist)",
+  "accountName": "SunTrust (Truist)",
+  "jobMonitor": "Pre-Prod",
+  "aCHFileID  ": "Not applicable",
+  "aCHCompanyID ": "Not applicable",
+  "uploadLocation": "Not applicable",
+  "dBLeadAnalyst": "All Team",
+  "projectCoordinator": "TeamGarrett@epiqglobal.com",
+  "projectManager": "TeamGarrett@epiqglobal.com",
+  "ccEmail": "noah.garrett@epiqglobal.com"
+},
+{
+  "_id": {
+    "$oid": "654a994379de4159514ca91a"
+  },
+  "caseName": "Possible Finance Refund Project 1",
+  "caseNumber": "CA40057444 ",
+  "accountNumber": 1893923652,
+  "routingNumber": 44000024,
+  "currency": "USD",
+  "bankInstitute": "Huntington",
+  "accountName": "Huntington",
+  "jobMonitor": "Pre-Prod",
+  "aCHFileID  ": "Not applicable",
+  "aCHCompanyID ": "Not applicable",
+  "uploadLocation": "Not applicable",
+  "dBLeadAnalyst": "All Team",
+  "projectCoordinator": "TeamMessier@epiqglobal.com",
+  "projectManager": "TeamMessier@epiqglobal.com",
+  "ccEmail": "bmessier@epiqglobal.com"
+},
+{
+  "_id": {
+    "$oid": "654a994379de4159514ca91b"
+  },
+  "caseName": "RAM Payment LLC",
+  "caseNumber": "CA40057897",
+  "accountNumber": {
+    "$numberLong": "1100023422326"
+  },
+  "routingNumber": 263191387,
+  "currency": "USD",
+  "bankInstitute": "Truist",
+  "accountName": "Truist",
+  "jobMonitor": "Pre-Prod",
+  "aCHFileID  ": "Not applicable",
+  "aCHCompanyID ": "Not applicable",
+  "uploadLocation": "Not applicable",
+  "dBLeadAnalyst": "All Team",
+  "projectCoordinator": "TeamHamershock@epiqglobal.com",
+  "projectManager": "TeamHamershock@epiqglobal.com",
+  "ccEmail": "Shanna.Hamershock@epiqglobal.com"
+},
+{
+  "_id": {
+    "$oid": "654a994379de4159514ca91c"
+  },
+  "caseName": "Scott v. JPMC",
+  "caseNumber": "CA7562",
+  "accountNumber": 1893871283,
+  "routingNumber": 44000024,
+  "currency": "USD",
+  "bankInstitute": "Huntington",
+  "accountName": "Huntington",
+  "jobMonitor": "Pre-Prod",
+  "aCHFileID  ": "Not applicable",
+  "aCHCompanyID ": "Not applicable",
+  "uploadLocation": "Not applicable",
+  "dBLeadAnalyst": "Valerie Jech",
+  "projectCoordinator": "TeamBrei@epiqglobal.com",
+  "projectManager": "TeamBrei@epiqglobal.com",
+  "ccEmail": "Brittany.Cudworth@epiqglobal.com"
+},
+{
+  "_id": {
+    "$oid": "654a994379de4159514ca91d"
+  },
+  "caseName": "Sudden Valley",
+  "caseNumber": "CA40057925",
+  "accountNumber": {
+    "$numberLong": "8548655174"
+  },
+  "routingNumber": 122105980,
+  "currency": "USD",
+  "bankInstitute": "Western Alliance",
+  "accountName": "Western Alliance",
+  "jobMonitor": "Pre-Prod",
+  "aCHFileID  ": "Not applicable",
+  "aCHCompanyID ": "Not applicable",
+  "uploadLocation": "Not applicable",
+  "dBLeadAnalyst": "Daneen/Anuja/Alan",
+  "projectCoordinator": "TeamTylerHanlon@epiqglobal.com",
+  "projectManager": "TeamTylerHanlon@epiqglobal.com",
+  "ccEmail": "atylerhanlon@epiqglobal.com"
+},
+{
+  "_id": {
+    "$oid": "654a994379de4159514ca91e"
+  },
+  "caseName": "Toyota Mtr Credit Corp Compliance",
+  "caseNumber": " CA40045499",
+  "accountNumber": 1893771752,
+  "routingNumber": 44000024,
+  "currency": "USD",
+  "bankInstitute": "Huntington",
+  "accountName": "Huntington",
+  "jobMonitor": "Pre-Prod",
+  "aCHFileID  ": "Not applicable",
+  "aCHCompanyID ": "Not applicable",
+  "uploadLocation": "Not applicable",
+  "dBLeadAnalyst": "All Team",
+  "projectCoordinator": "TeamHamershock@epiqglobal.com",
+  "projectManager": "TeamHamershock@epiqglobal.com",
+  "ccEmail": "Shanna.Hamershock@epiqglobal.com"
+},
+{
+  "_id": {
+    "$oid": "654a994379de4159514ca91f"
+  },
+  "caseName": "Wells Fargo CPI Class Action",
+  "caseNumber": "CA4840",
+  "accountNumber": 1893659191,
+  "routingNumber": 44000024,
+  "currency": "USD",
+  "bankInstitute": "Huntington",
+  "accountName": "Huntington",
+  "jobMonitor": "Pre-Prod",
+  "aCHFileID  ": "Not applicable",
+  "aCHCompanyID ": "Not applicable",
+  "uploadLocation": "Not applicable",
+  "dBLeadAnalyst": "All Team",
+  "projectCoordinator": "TeamMessier@epiqglobal.com",
+  "projectManager": "TeamMessier@epiqglobal.com",
+  "ccEmail": "bmessier@epiqglobal.com"
+},
+{
+  "_id": {
+    "$oid": "654a994379de4159514ca920"
+  },
+  "caseName": "Flagstar Bank Remediation 3",
+  "caseNumber": "CA5047",
+  "accountNumber": 1893910416,
+  "routingNumber": 44000024,
+  "currency": "USD",
+  "bankInstitute": "Huntington",
+  "accountName": "Huntington",
+  "jobMonitor": "Pre-Prod",
+  "aCHFileID  ": "Not applicable",
+  "aCHCompanyID ": "Not applicable",
+  "uploadLocation": "Not applicable",
+  "dBLeadAnalyst": "All Team",
+  "projectCoordinator": "TeamTylerHanlon@epiqglobal.com",
+  "projectManager": "TeamTylerHanlon@epiqglobal.com",
+  "ccEmail": "atylerhanlon@epiqglobal.com"
+},
+{
+  "_id": {
+    "$oid": "654a994379de4159514ca921"
   },
   "caseName": "WF Affinion",
   "caseNumber": "CA4700",
@@ -12,16 +300,17 @@
   "bankInstitute": "Wells Fargo",
   "accountName": "WFI AFFINION ITP REMED",
   "jobMonitor": "Pre-Prod",
-  "aCHFileID ": 1931210932,
+  "aCHFileID  ": 1931210932,
   "aCHCompanyID ": 1931210942,
+  "uploadLocation": "/inbound/EPIQ123_ACH_19",
   "dBLeadAnalyst": "All Team",
-  "projectManager": "TeamAttisha@epiqglobal.com",
   "projectCoordinator": "TeamAttisha@epiqglobal.com",
+  "projectManager": "TeamAttisha@epiqglobal.com",
   "ccEmail": "kattisha@epiqglobal.com"
 },
 {
   "_id": {
-    "$oid": "64c30f228b29a37f13e02610"
+    "$oid": "654a994379de4159514ca922"
   },
   "caseName": "WF AOP CDP",
   "caseNumber": "CA4926",
@@ -33,18 +322,18 @@
   "bankInstitute": "Wells Fargo",
   "accountName": "WELLS FARGO BANK NA",
   "jobMonitor": "Producer",
-  "aCHFileID ": 1931210932,
+  "aCHFileID  ": 1931210932,
   "aCHCompanyID ": {
     "$numberLong": "9931210932"
   },
-  "dBLeadAnalyst": "Demond Johnson",
-  "projectManager": "TeamHamershock@epiqglobal.com",
+  "uploadLocation": "/inbound/EPIQ123_ACH_9",
   "projectCoordinator": "TeamHamershock@epiqglobal.com",
+  "projectManager": "TeamHamershock@epiqglobal.com",
   "ccEmail": "Shanna.Hamershock@epiqglobal.com"
 },
 {
   "_id": {
-    "$oid": "64c30f228b29a37f13e02611"
+    "$oid": "654a994379de4159514ca923"
   },
   "caseName": "WF AOP ITP",
   "caseNumber": "CA4926",
@@ -56,16 +345,16 @@
   "bankInstitute": "Wells Fargo",
   "accountName": "ITP EITP AOP SALES",
   "jobMonitor": "Producer",
-  "aCHFileID ": 1931210932,
+  "aCHFileID  ": 1931210932,
   "aCHCompanyID ": 1931210939,
-  "dBLeadAnalyst": "Demond Johnson",
-  "projectManager": "TeamHamershock@epiqglobal.com",
+  "uploadLocation": "/inbound/EPIQ123_ACH_16",
   "projectCoordinator": "TeamHamershock@epiqglobal.com",
+  "projectManager": "TeamHamershock@epiqglobal.com",
   "ccEmail": "Shanna.Hamershock@epiqglobal.com"
 },
 {
   "_id": {
-    "$oid": "64c30f228b29a37f13e02612"
+    "$oid": "654a994379de4159514ca924"
   },
   "caseName": "WF CDA",
   "caseNumber": "CA40047503",
@@ -77,16 +366,17 @@
   "bankInstitute": "Wells Fargo",
   "accountName": "WF Closed Deposit Accounts",
   "jobMonitor": "Pre-Prod",
-  "aCHFileID ": 1931210932,
+  "aCHFileID  ": 1931210932,
   "aCHCompanyID ": 1931210934,
+  "uploadLocation": "/inbound/EPIQ123_ACH_11",
   "dBLeadAnalyst": "Valerie Jech",
-  "projectManager": "TeamTylerHanlon@epiqglobal.com",
   "projectCoordinator": "TeamTylerHanlon@epiqglobal.com",
+  "projectManager": "TeamTylerHanlon@epiqglobal.com",
   "ccEmail": "atylerhanlon@epiqglobal.com"
 },
 {
   "_id": {
-    "$oid": "64c30f228b29a37f13e02613"
+    "$oid": "654a994379de4159514ca925"
   },
   "caseName": "WF CDP",
   "caseNumber": "CA4712",
@@ -98,20 +388,20 @@
   "bankInstitute": "Wells Fargo",
   "accountName": "WFBNA CDP REMED",
   "jobMonitor": "Pre-Prod",
-  "aCHFileID ": 1931210932,
+  "aCHFileID  ": 1931210932,
   "aCHCompanyID ": {
     "$numberLong": "7931210932"
   },
-  "dBLeadAnalyst": "Alan Niebuhr",
-  "projectManager": "TeamTylerHanlon@epiqglobal.com",
+  "uploadLocation": "/inbound/EPIQ123_ACH_7 ",
   "projectCoordinator": "TeamTylerHanlon@epiqglobal.com",
+  "projectManager": "TeamTylerHanlon@epiqglobal.com",
   "ccEmail": "atylerhanlon@epiqglobal.com"
 },
 {
   "_id": {
-    "$oid": "64c30f228b29a37f13e02614"
+    "$oid": "654a994379de4159514ca926"
   },
-  "caseName": "WF CPI",
+  "caseName": "WF CPI*",
   "caseNumber": "CA9612",
   "accountNumber": {
     "$numberLong": "4246822977"
@@ -121,16 +411,17 @@
   "bankInstitute": "Wells Fargo",
   "accountName": "WELLSFARGOBAN",
   "jobMonitor": "Producer",
-  "aCHFileID ": 1931210932,
+  "aCHFileID  ": 1931210932,
   "aCHCompanyID ": 1931210932,
-  "dBLeadAnalyst": "Emad / Anuja",
-  "projectManager": "amrice@epiqglobal.com",
+  "uploadLocation": "/inbound/EPIQ123_ACH_1",
+  "dBLeadAnalyst": "Emad Albidah",
   "projectCoordinator": "CPI_Mailings_Team@epiqglobal.com",
+  "projectManager": "amrice@epiqglobal.com",
   "ccEmail": "amrice@epiqglobal.com"
 },
 {
   "_id": {
-    "$oid": "64c30f228b29a37f13e02615"
+    "$oid": "654a994379de4159514ca927"
   },
   "caseName": "WF CPIM",
   "caseNumber": "CA9207",
@@ -142,18 +433,19 @@
   "bankInstitute": "Wells Fargo",
   "accountName": "WFB AUTO CPI",
   "jobMonitor": "Pre-Prod",
-  "aCHFileID ": 1931210932,
+  "aCHFileID  ": 1931210932,
   "aCHCompanyID ": {
     "$numberLong": "4931210932"
   },
+  "uploadLocation": "/inbound/EPIQ123_ACH_4 ",
   "dBLeadAnalyst": "All Team",
-  "projectManager": "TeamGarrett@epiqglobal.com",
   "projectCoordinator": "TeamGarrett@epiqglobal.com",
+  "projectManager": "TeamGarrett@epiqglobal.com",
   "ccEmail": "noah.garrett@epiqglobal.com"
 },
 {
   "_id": {
-    "$oid": "64c30f228b29a37f13e02616"
+    "$oid": "654a994379de4159514ca928"
   },
   "caseName": "WF DCO 1",
   "caseNumber": "CA4790",
@@ -165,18 +457,19 @@
   "bankInstitute": "Wells Fargo",
   "accountName": "CRCOE",
   "jobMonitor": "Producer",
-  "aCHFileID ": 1931210932,
+  "aCHFileID  ": 1931210932,
   "aCHCompanyID ": {
     "$numberLong": "8931210932"
   },
+  "uploadLocation": "/inbound/EPIQ123_ACH_8 ",
   "dBLeadAnalyst": "All Team",
-  "projectManager": "TeamAttisha@epiqglobal.com",
   "projectCoordinator": "TeamAttisha@epiqglobal.com",
+  "projectManager": "TeamAttisha@epiqglobal.com",
   "ccEmail": "kattisha@epiqglobal.com"
 },
 {
   "_id": {
-    "$oid": "64c30f228b29a37f13e02617"
+    "$oid": "654a994379de4159514ca929"
   },
   "caseName": "WF DCO 2 ",
   "caseNumber": "CA4790",
@@ -188,16 +481,17 @@
   "bankInstitute": "Wells Fargo",
   "accountName": "WF DCO 2 ",
   "jobMonitor": "Producer",
-  "aCHFileID ": 1931210932,
+  "aCHFileID  ": 1931210932,
   "aCHCompanyID ": 1931210943,
+  "uploadLocation": "/inbound/EPIQ123_ACH_14",
   "dBLeadAnalyst": "Emad Albidah",
-  "projectManager": "TeamAttisha@epiqglobal.com",
   "projectCoordinator": "TeamAttisha@epiqglobal.com",
+  "projectManager": "TeamAttisha@epiqglobal.com",
   "ccEmail": "kattisha@epiqglobal.com"
 },
 {
   "_id": {
-    "$oid": "64c30f228b29a37f13e02618"
+    "$oid": "654a994379de4159514ca92a"
   },
   "caseName": "WF DCO Small Business",
   "caseNumber": "CA40052052",
@@ -209,16 +503,16 @@
   "bankInstitute": "Wells Fargo",
   "accountName": "WF DCO Small Business",
   "jobMonitor": "Producer",
-  "aCHFileID ": 1931210932,
+  "aCHFileID  ": 1931210932,
   "aCHCompanyID ": 1931210938,
-  "dBLeadAnalyst": "Anuja Shinde",
-  "projectManager": "TeamAttisha@epiqglobal.com",
-  "projectCoordinator": "TeamAttisha@epiqglobal.com",
-  "ccEmail": "kattisha@epiqglobal.com"
+  "uploadLocation": "/inbound/EPIQ123_ACH_15",
+  "projectCoordinator": "WF-DCOSmallBusiness@epiqglobal.com",
+  "projectManager": "WF-DCOSmallBusiness@epiqglobal.com",
+  "ccEmail": "WF-DCOSmallBusiness@epiqglobal.com"
 },
 {
   "_id": {
-    "$oid": "64c30f228b29a37f13e02619"
+    "$oid": "654a994379de4159514ca92b"
   },
   "caseName": "WF Deposit Account Closure (DAC)",
   "caseNumber": "CA40052228",
@@ -230,16 +524,17 @@
   "bankInstitute": "Wells Fargo",
   "accountName": "WF DAC",
   "jobMonitor": "Pre-Prod",
-  "aCHFileID ": 1931210932,
+  "aCHFileID  ": 1931210932,
   "aCHCompanyID ": 1931210946,
+  "uploadLocation": "/inbound/EPIQ123_ACH_21",
   "dBLeadAnalyst": "All Team",
-  "projectManager": "TeamHamershock@epiqglobal.com",
-  "projectCoordinator": "TeamHamershock@epiqglobal.com",
-  "ccEmail": "Shanna.Hamershock@epiqglobal.com"
+  "projectCoordinator": "wf-deposit-account-closure@epiqglobal.com",
+  "projectManager": "wf-deposit-account-closure@epiqglobal.com",
+  "ccEmail": "wf-deposit-account-closure@epiqglobal.com"
 },
 {
   "_id": {
-    "$oid": "64c30f228b29a37f13e0261a"
+    "$oid": "654a994379de4159514ca92c"
   },
   "caseName": "WF DPG",
   "caseNumber": "CA5370",
@@ -251,18 +546,19 @@
   "bankInstitute": "Wells Fargo",
   "accountName": "WFBNA DPG REMED",
   "jobMonitor": "Producer",
-  "aCHFileID ": 1931210932,
+  "aCHFileID  ": 1931210932,
   "aCHCompanyID ": {
     "$numberLong": "3931210932"
   },
+  "uploadLocation": "/inbound/EPIQ123_ACH_3",
   "dBLeadAnalyst": "Ruth Roslyak ",
-  "projectManager": "TeamBrei@epiqglobal.com",
   "projectCoordinator": "TeamBrei@epiqglobal.com",
+  "projectManager": "TeamBrei@epiqglobal.com",
   "ccEmail": "Brittany.Cudworth@epiqglobal.com"
 },
 {
   "_id": {
-    "$oid": "64c30f228b29a37f13e0261b"
+    "$oid": "654a994379de4159514ca92d"
   },
   "caseName": "WF DPG 2 ",
   "caseNumber": "CA40048415",
@@ -274,16 +570,17 @@
   "bankInstitute": "Wells Fargo",
   "accountName": "WF DPG 2 ",
   "jobMonitor": "Producer",
-  "aCHFileID ": 1931210932,
+  "aCHFileID  ": 1931210932,
   "aCHCompanyID ": 1931210937,
+  "uploadLocation": "/inbound/EPIQ123_ACH_13",
   "dBLeadAnalyst": "Emad Albidah",
-  "projectManager": "TeamBrei@epiqglobal.com",
   "projectCoordinator": "TeamBrei@epiqglobal.com",
+  "projectManager": "TeamBrei@epiqglobal.com",
   "ccEmail": "Brittany.Cudworth@epiqglobal.com"
 },
 {
   "_id": {
-    "$oid": "64c30f228b29a37f13e0261c"
+    "$oid": "654a994379de4159514ca92e"
   },
   "caseName": "WF Fraud Hold",
   "caseNumber": "CA4339",
@@ -295,18 +592,19 @@
   "bankInstitute": "Wells Fargo",
   "accountName": "WFBNA Fraud Hold Remed",
   "jobMonitor": "Producer",
-  "aCHFileID ": 1931210932,
+  "aCHFileID  ": 1931210932,
   "aCHCompanyID ": {
     "$numberLong": "6931210932"
   },
+  "uploadLocation": "/inbound/EPIQ123_ACH_6 ",
   "dBLeadAnalyst": "Valerie Jech",
-  "projectManager": "TeamAttisha@epiqglobal.com",
   "projectCoordinator": "TeamAttisha@epiqglobal.com",
+  "projectManager": "TeamAttisha@epiqglobal.com",
   "ccEmail": "kattisha@epiqglobal.com"
 },
 {
   "_id": {
-    "$oid": "64c30f228b29a37f13e0261d"
+    "$oid": "654a994379de4159514ca92f"
   },
   "caseName": "WF Fraud Hold 2 ",
   "caseNumber": "CA40051492",
@@ -318,16 +616,17 @@
   "bankInstitute": "Wells Fargo",
   "accountName": "Wells Fraud Hold 2",
   "jobMonitor": "Pre-Prod",
-  "aCHFileID ": 1931210932,
+  "aCHFileID  ": 1931210932,
   "aCHCompanyID ": 1931210936,
+  "uploadLocation": "/inbound/EPIQ123_ACH_12",
   "dBLeadAnalyst": "All Team",
-  "projectManager": "TeamTylerHanlon@epiqglobal.com",
-  "projectCoordinator": "TeamTylerHanlon@epiqglobal.com",
-  "ccEmail": "atylerhanlon@epiqglobal.com"
+  "projectCoordinator": "wf-fraud-hold-2@epiqglobal.com",
+  "projectManager": "wf-fraud-hold-2@epiqglobal.com",
+  "ccEmail": "wf-fraud-hold-2@epiqglobal.com"
 },
 {
   "_id": {
-    "$oid": "64c30f228b29a37f13e0261e"
+    "$oid": "654a994379de4159514ca930"
   },
   "caseName": "WF Hard Hold Blocking",
   "caseNumber": "CA40052191",
@@ -339,16 +638,17 @@
   "bankInstitute": "Wells Fargo",
   "accountName": "WF Hard Holds Blocking",
   "jobMonitor": "Pre-Prod",
-  "aCHFileID ": 1931210932,
+  "aCHFileID  ": 1931210932,
   "aCHCompanyID ": 1931210945,
+  "uploadLocation": "/inbound/EPIQ123_ACH_20",
   "dBLeadAnalyst": "All Team",
-  "projectManager": "teamattisha@epiqglobal.com",
-  "projectCoordinator": "TeamAttisha@epiqglobal.com",
-  "ccEmail": "kattisha@epiqglobal.com"
+  "projectCoordinator": "WFHardHold@epiqglobal.com",
+  "projectManager": "TWFHardHold@epiqglobal.com",
+  "ccEmail": "WFHardHold@epiqglobal.com"
 },
 {
   "_id": {
-    "$oid": "64c30f228b29a37f13e0261f"
+    "$oid": "654a994379de4159514ca931"
   },
   "caseName": "WF ITP",
   "caseNumber": "CA4712",
@@ -360,16 +660,16 @@
   "bankInstitute": "Wells Fargo",
   "accountName": "WFI ITP SUPP REMED",
   "jobMonitor": "Pre-Prod",
-  "aCHFileID ": 1931210932,
+  "aCHFileID  ": 1931210932,
   "aCHCompanyID ": 1931210941,
-  "dBLeadAnalyst": "Alan Niebuhr",
-  "projectManager": "TeamTylerHanlon@epiqglobal.com",
+  "uploadLocation": "/inbound/EPIQ123_ACH_18",
   "projectCoordinator": "TeamTylerHanlon@epiqglobal.com",
+  "projectManager": "TeamTylerHanlon@epiqglobal.com",
   "ccEmail": "atylerhanlon@epiqglobal.com"
 },
 {
   "_id": {
-    "$oid": "64c30f228b29a37f13e02620"
+    "$oid": "654a994379de4159514ca932"
   },
   "caseName": "WF Membership",
   "caseNumber": "CA7708",
@@ -381,16 +681,17 @@
   "bankInstitute": "Wells Fargo",
   "accountName": "WFBNA FBS REMED",
   "jobMonitor": "Pre-Prod",
-  "aCHFileID ": 1931210932,
+  "aCHFileID  ": 1931210932,
   "aCHCompanyID ": 1931210933,
+  "uploadLocation": "/inbound/EPIQ123_ACH_10",
   "dBLeadAnalyst": "Ruth Roslyak ",
-  "projectManager": "TeamHamershock@epiqglobal.com",
   "projectCoordinator": "TeamHamershock@epiqglobal.com",
+  "projectManager": "TeamHamershock@epiqglobal.com",
   "ccEmail": "Shanna.Hamershock@epiqglobal.com"
 },
 {
   "_id": {
-    "$oid": "64c30f228b29a37f13e02621"
+    "$oid": "654a994379de4159514ca933"
   },
   "caseName": "WF REM 6",
   "caseNumber": "CA5293",
@@ -402,16 +703,17 @@
   "bankInstitute": "Wells Fargo",
   "accountName": "WFI REMED 6 ACCT",
   "jobMonitor": "Pre-Prod",
-  "aCHFileID ": 1931210932,
+  "aCHFileID  ": 1931210932,
   "aCHCompanyID ": 1931210940,
+  "uploadLocation": "/inbound/EPIQ123_ACH_17",
   "dBLeadAnalyst": "Valerie Jech",
-  "projectManager": "TeamTylerHanlon@epiqglobal.com",
   "projectCoordinator": "TeamTylerHanlon@epiqglobal.com",
+  "projectManager": "TeamTylerHanlon@epiqglobal.com",
   "ccEmail": "atylerhanlon@epiqglobal.com"
 },
 {
   "_id": {
-    "$oid": "64c30f228b29a37f13e02622"
+    "$oid": "654a994379de4159514ca934"
   },
   "caseName": "WF Shoreview CRMS PLG SBB ",
   "caseNumber": "CA40052518",
@@ -423,16 +725,16 @@
   "bankInstitute": "Wells Fargo",
   "accountName": "Wells Fargo Shoreview",
   "jobMonitor": "Pre-Prod",
-  "aCHFileID ": 1931210932,
+  "aCHFileID  ": 1931210932,
   "aCHCompanyID ": 1931210944,
-  "dBLeadAnalyst": "Anuja Shinde",
-  "projectManager": "teamattisha@epiqglobal.com",
+  "uploadLocation": "/inbound/EPIQ123_ACH_22",
   "projectCoordinator": "TeamAttisha@epiqglobal.com",
+  "projectManager": "teamattisha@epiqglobal.com",
   "ccEmail": "kattisha@epiqglobal.com"
 },
 {
   "_id": {
-    "$oid": "64c30f228b29a37f13e02623"
+    "$oid": "654a994379de4159514ca935"
   },
   "caseName": "WF SPM",
   "caseNumber": "CA9207",
@@ -444,18 +746,19 @@
   "bankInstitute": "Wells Fargo",
   "accountName": "WFBNA LA AGREEMENT",
   "jobMonitor": "Pre-Prod",
-  "aCHFileID ": 1931210932,
+  "aCHFileID  ": 1931210932,
   "aCHCompanyID ": {
     "$numberLong": "5931210932"
   },
+  "uploadLocation": "/inbound/EPIQ123_ACH_5 ",
   "dBLeadAnalyst": "All Team",
-  "projectManager": "TeamGarrett@epiqglobal.com",
-  "projectCoordinator": "TeamGarrett@epiqglobal.com",
-  "ccEmail": "noah.garrett@epiqglobal.com"
+  "projectCoordinator": "WF-SPM@epiqglobal.com",
+  "projectManager": "WF-SPM@epiqglobal.com",
+  "ccEmail": "WF-SPM@epiqglobal.com"
 },
 {
   "_id": {
-    "$oid": "64c30f228b29a37f13e02624"
+    "$oid": "654a994379de4159514ca936"
   },
   "caseName": "WF Unauthorized",
   "caseNumber": "CA9716",
@@ -467,20 +770,21 @@
   "bankInstitute": "Wells Fargo",
   "accountName": "WFBNA SPO",
   "jobMonitor": "Pre-Prod",
-  "aCHFileID ": 1931210932,
+  "aCHFileID  ": 1931210932,
   "aCHCompanyID ": {
     "$numberLong": "2931210932"
   },
+  "uploadLocation": "/inbound/EPIQ123_ACH_2 ",
   "dBLeadAnalyst": "All Team",
-  "projectManager": "TeamHamershock@epiqglobal.com",
   "projectCoordinator": "TeamHamershock@epiqglobal.com",
+  "projectManager": "TeamHamershock@epiqglobal.com",
   "ccEmail": "Shanna.Hamershock@epiqglobal.com"
 },
 {
   "_id": {
-    "$oid": "64c30f228b29a37f13e02625"
+    "$oid": "654a994379de4159514ca937"
   },
-  "caseName": "WF FCM Zelle Payment Token Errors",
+  "caseName": "WF FCM Zelle Payment Token Errors**",
   "caseNumber": "CA40059488",
   "accountNumber": {
     "$numberLong": "4315123828"
@@ -490,16 +794,17 @@
   "bankInstitute": "Wells Fargo",
   "accountName": "WFBNA LA AGREEMENT",
   "jobMonitor": "Pre-Prod",
-  "aCHFileID ": 1931210932,
+  "aCHFileID  ": 1931210932,
   "aCHCompanyID ": 1931210948,
+  "uploadLocation": "/inbound/EPIQ123_ACH_23",
   "dBLeadAnalyst": "All Team",
-  "projectManager": "TeamTylerHanlon@epiqglobal.com",
   "projectCoordinator": "TeamTylerHanlon@epiqglobal.com",
+  "projectManager": "TeamTylerHanlon@epiqglobal.com",
   "ccEmail": "atylerhanlon@epiqglobal.com"
 },
 {
   "_id": {
-    "$oid": "64c30f228b29a37f13e02626"
+    "$oid": "654a994379de4159514ca938"
   },
   "caseName": "Wells Fargo AOP SP 201 Orig P2 Bank",
   "caseNumber": "CA40061433",
@@ -510,15 +815,18 @@
   "currency": "USD",
   "bankInstitute": "Wells Fargo",
   "accountName": "AOP-Insur Multi CR Customer Complaints 1",
-  "aCHFileID ": 1931210932,
+  "aCHFileID  ": 1931210932,
   "aCHCompanyID ": 1931210949,
+  "uploadLocation": "/inbound/EPIQ123_ACH_24",
   "dBLeadAnalyst": "All Team",
-  "projectManager": "TeamAttisha@epiqglobal.com",
-  "projectCoordinator": "TeamAttisha@epiqglobal.com"
+  "projectCoordinator": "wf_asp@epiqglobal.com",
+  "projectManager": "wf_asp@epiqglobal.com",
+  "ccEmail": "wf_asp@epiqglobal.com",
+  "jobMonitor": "Pre-Prod"
 },
 {
   "_id": {
-    "$oid": "64c30f228b29a37f13e02627"
+    "$oid": "654a994379de4159514ca939"
   },
   "caseName": "Wells Fargo AOP SP 201 Orig P2 Bank",
   "caseNumber": "CA40061433",
@@ -529,15 +837,18 @@
   "currency": "USD",
   "bankInstitute": "Wells Fargo",
   "accountName": "AOP- Multi CR Remediation 1",
-  "aCHFileID ": 1931210932,
+  "aCHFileID  ": 1931210932,
   "aCHCompanyID ": 1931210950,
+  "uploadLocation": "/inbound/EPIQ123_ACH_25",
   "dBLeadAnalyst": "All Team",
-  "projectManager": "TeamAttisha@epiqglobal.com",
-  "projectCoordinator": "TeamAttisha@epiqglobal.com"
+  "projectCoordinator": "wf_asp@epiqglobal.com",
+  "projectManager": "wf_asp@epiqglobal.com",
+  "jobMonitor": "Pre-Prod",
+  "ccEmail": "wf_asp@epiqglobal.com"
 },
 {
   "_id": {
-    "$oid": "64c30f228b29a37f13e02628"
+    "$oid": "654a994379de4159514ca93a"
   },
   "caseName": "Wells Fargo AOP SP 201 Orig P2 Bank",
   "caseNumber": "CA40061433",
@@ -548,15 +859,18 @@
   "currency": "USD",
   "bankInstitute": "Wells Fargo",
   "accountName": "AOP-Insurance Multi CR Remediation 1",
-  "aCHFileID ": 1931210932,
+  "aCHFileID  ": 1931210932,
   "aCHCompanyID ": 1931210951,
+  "uploadLocation": "/inbound/EPIQ123_ACH_26",
   "dBLeadAnalyst": "All Team",
-  "projectManager": "TeamAttisha@epiqglobal.com",
-  "projectCoordinator": "TeamAttisha@epiqglobal.com"
+  "projectCoordinator": "wf_asp@epiqglobal.com",
+  "projectManager": "wf_asp@epiqglobal.com",
+  "jobMonitor": "Pre-Prod",
+  "ccEmail": "wf_asp@epiqglobal.com"
 },
 {
   "_id": {
-    "$oid": "64c30f228b29a37f13e02629"
+    "$oid": "654a994379de4159514ca93b"
   },
   "caseName": "Wells Fargo AOP SP 201 Orig P2 Bank",
   "caseNumber": "CA40061433",
@@ -567,15 +881,18 @@
   "currency": "USD",
   "bankInstitute": "Wells Fargo",
   "accountName": "AOP- ITP/EITP DDA",
-  "aCHFileID ": 1931210932,
+  "aCHFileID  ": 1931210932,
   "aCHCompanyID ": 1931210952,
+  "uploadLocation": "/inbound/EPIQ123_ACH_27",
   "dBLeadAnalyst": "All Team",
-  "projectManager": "TeamAttisha@epiqglobal.com",
-  "projectCoordinator": "TeamAttisha@epiqglobal.com"
+  "projectCoordinator": "wf_asp@epiqglobal.com",
+  "projectManager": "wf_asp@epiqglobal.com",
+  "jobMonitor": "Pre-Prod",
+  "ccEmail": "wf_asp@epiqglobal.com"
 },
 {
   "_id": {
-    "$oid": "64c30f228b29a37f13e0262a"
+    "$oid": "654a994379de4159514ca93c"
   },
   "caseName": "Wells Fargo AOP SP 201 Orig P2 Bank",
   "caseNumber": "CA40061433",
@@ -586,15 +903,18 @@
   "currency": "USD",
   "bankInstitute": "Wells Fargo",
   "accountName": "AOP-CDP DDA",
-  "aCHFileID ": 1931210932,
+  "aCHFileID  ": 1931210932,
   "aCHCompanyID ": 1931210958,
+  "uploadLocation": "/inbound/EPIQ123_ACH_32",
   "dBLeadAnalyst": "All Team",
-  "projectManager": "TeamAttisha@epiqglobal.com",
-  "projectCoordinator": "TeamAttisha@epiqglobal.com"
+  "projectCoordinator": "wf_asp@epiqglobal.com",
+  "projectManager": "wf_asp@epiqglobal.com",
+  "jobMonitor": "Pre-Prod",
+  "ccEmail": "wf_asp@epiqglobal.com"
 },
 {
   "_id": {
-    "$oid": "64c30f228b29a37f13e0262b"
+    "$oid": "654a994379de4159514ca93d"
   },
   "caseName": "Wells Fargo AOP SP 201 Orig P2 Bank",
   "caseNumber": "CA40061433",
@@ -605,15 +925,18 @@
   "currency": "USD",
   "bankInstitute": "Wells Fargo",
   "accountName": "AOP-TBD Usage",
-  "aCHFileID ": 1931210932,
+  "aCHFileID  ": 1931210932,
   "aCHCompanyID ": 1931210954,
+  "uploadLocation": "/inbound/EPIQ123_ACH_28",
   "dBLeadAnalyst": "All Team",
-  "projectManager": "TeamAttisha@epiqglobal.com",
-  "projectCoordinator": "TeamAttisha@epiqglobal.com"
+  "projectCoordinator": "wf_asp@epiqglobal.com",
+  "projectManager": "wf_asp@epiqglobal.com",
+  "jobMonitor": "Pre-Prod",
+  "ccEmail": "wf_asp@epiqglobal.com"
 },
 {
   "_id": {
-    "$oid": "64c30f228b29a37f13e0262c"
+    "$oid": "654a994379de4159514ca93e"
   },
   "caseName": "Wells Fargo AOP SP 201 Orig P2 Bank",
   "caseNumber": "CA40061433",
@@ -624,15 +947,18 @@
   "currency": "USD",
   "bankInstitute": "Wells Fargo",
   "accountName": "AOP-ITP/EITP CUSTOMER COMPLAINTS",
-  "aCHFileID ": 1931210932,
+  "aCHFileID  ": 1931210932,
   "aCHCompanyID ": 1931210955,
+  "uploadLocation": "/inbound/EPIQ123_ACH_29",
   "dBLeadAnalyst": "All Team",
-  "projectManager": "TeamAttisha@epiqglobal.com",
-  "projectCoordinator": "TeamAttisha@epiqglobal.com"
+  "projectCoordinator": "wf_asp@epiqglobal.com",
+  "projectManager": "wf_asp@epiqglobal.com",
+  "jobMonitor": "Pre-Prod",
+  "ccEmail": "wf_asp@epiqglobal.com"
 },
 {
   "_id": {
-    "$oid": "64c30f228b29a37f13e0262d"
+    "$oid": "654a994379de4159514ca93f"
   },
   "caseName": "Wells Fargo AOP SP 201 Orig P2 Bank",
   "caseNumber": "CA40061433",
@@ -643,15 +969,18 @@
   "currency": "USD",
   "bankInstitute": "Wells Fargo",
   "accountName": "AOP- Multi CR CUSTOMER COMPLAINTS 1",
-  "aCHFileID ": 1931210932,
+  "aCHFileID  ": 1931210932,
   "aCHCompanyID ": 1931210956,
+  "uploadLocation": "/inbound/EPIQ123_ACH_30",
   "dBLeadAnalyst": "All Team",
-  "projectManager": "TeamAttisha@epiqglobal.com",
-  "projectCoordinator": "TeamAttisha@epiqglobal.com"
+  "projectCoordinator": "wf_asp@epiqglobal.com",
+  "projectManager": "wf_asp@epiqglobal.com",
+  "jobMonitor": "Pre-Prod",
+  "ccEmail": "wf_asp@epiqglobal.com"
 },
 {
   "_id": {
-    "$oid": "64c30f228b29a37f13e0262e"
+    "$oid": "654a994379de4159514ca940"
   },
   "caseName": "Wells Fargo AOP SP 201 Orig P2 Bank",
   "caseNumber": "CA40061433",
@@ -662,17 +991,20 @@
   "currency": "USD",
   "bankInstitute": "Wells Fargo",
   "accountName": "AOP- CDP Customer Complaints",
-  "aCHFileID ": 1931210932,
+  "aCHFileID  ": 1931210932,
   "aCHCompanyID ": 1931210957,
+  "uploadLocation": "/inbound/EPIQ123_ACH_31",
   "dBLeadAnalyst": "All Team",
-  "projectManager": "TeamAttisha@epiqglobal.com",
-  "projectCoordinator": "TeamAttisha@epiqglobal.com"
+  "projectCoordinator": "wf_asp@epiqglobal.com",
+  "projectManager": "wf_asp@epiqglobal.com",
+  "jobMonitor": "Pre-Prod",
+  "ccEmail": "wf_asp@epiqglobal.com"
 },
 {
   "_id": {
-    "$oid": "64c30f228b29a37f13e0262f"
+    "$oid": "654a994379de4159514ca941"
   },
-  "caseName": "WF Add-On",
+  "caseName": "WF Add-On*",
   "caseNumber": "CA7338",
   "accountNumber": {
     "$numberLong": "4386389613"
@@ -681,15 +1013,15 @@
   "currency": "USD",
   "bankInstitute": "Wells Fargo",
   "accountName": "WF Add-On",
-  "projectManager": "TeamAttisha@epiqglobal.com",
   "projectCoordinator": "TeamAttisha@epiqglobal.com",
+  "projectManager": "TeamAttisha@epiqglobal.com",
   "ccEmail": "kattisha@epiqglobal.com"
 },
 {
   "_id": {
-    "$oid": "64c30f228b29a37f13e02630"
+    "$oid": "654a994379de4159514ca942"
   },
-  "caseName": "WF Consent Order",
+  "caseName": "WF Consent Order*",
   "caseNumber": "CA6336",
   "accountNumber": {
     "$numberLong": "4124123514"
@@ -698,15 +1030,15 @@
   "currency": "USD",
   "bankInstitute": "Wells Fargo",
   "accountName": "WF Consent Order",
-  "projectManager": "TeamGarrett@epiqglobal.com",
   "projectCoordinator": "TeamGarrett@epiqglobal.com",
+  "projectManager": "TeamGarrett@epiqglobal.com",
   "ccEmail": "noah.garrett@epiqglobal.com"
 },
 {
   "_id": {
-    "$oid": "64c30f228b29a37f13e02631"
+    "$oid": "654a994379de4159514ca943"
   },
-  "caseName": "WF Smart Payment Plan",
+  "caseName": "WF Smart Payment Plan*",
   "caseNumber": "CA3916",
   "accountNumber": {
     "$numberLong": "4499231116"
@@ -714,5 +1046,104 @@
   "routingNumber": 121000248,
   "currency": "USD",
   "bankInstitute": "Wells Fargo",
-  "accountName": "WF SPP"
+  "accountName": "WF SPP",
+  "projectCoordinator": "N/A",
+  "ccEmail": "N/A"
+},
+{
+  "_id": {
+    "$oid": "6619b1c28c05301f40734c28"
+  },
+  "caseName": "Wells Fargo AOP SP 201 Orig P2 Bank",
+  "caseNumber": "CA40061433",
+  "accountNumber": "4943816280",
+  "routingNumber": "121000248",
+  "currency": "USD",
+  "bankInstitute": "Wells Fargo",
+  "accountName": "AOP-Insur Multi CR Customer Complaints 2",
+  "aCHFileID": "1931210933",
+  "aCHCompanyID": "1931210960",
+  "uploadLocation": "/inbound/EPIQ123_ACH_33",
+  "dBLeadAnalyst": "All Team",
+  "jobMonitor": "Pre-Prod",
+  "projectManager": "wf_asp@epiqglobal.com",
+  "projectCoordinator": "wf_asp@epiqglobal.com",
+  "ccEmail": "wf_asp@epiqglobal.com",
+  "_class": "com.remediation.epiq.model.BankAccount"
+},
+{
+  "_id": {
+    "$oid": "669d1ea8bcf0b6775c664e83"
+  },
+  "caseName": "Sendwave Remediation",
+  "caseNumber": "CA40065686",
+  "accountNumber": "688192003",
+  "routingNumber": "021000089",
+  "currency": "USD",
+  "bankInstitute": "Citibank",
+  "accountName": "Citibank",
+  "uploadLocation": "",
+  "dBLeadAnalyst": "All Team",
+  "jobMonitor": "Pre-Prod",
+  "projectManager": "Sendwave1@epiqglobal.com",
+  "projectCoordinator": "Sendwave1@epiqglobal.com",
+  "ccEmail": "Sendwave1@epiqglobal.com",
+  "_class": "com.remediation.epiq.model.BankAccount"
+},
+{
+  "_id": {
+    "$oid": "669d1eb2bcf0b6775c664e84"
+  },
+  "caseName": "Sendwave Consent Order",
+  "caseNumber": "CA40072457",
+  "accountNumber": "6882143173",
+  "routingNumber": "21000089",
+  "currency": "USD",
+  "bankInstitute": "Citibank",
+  "accountName": "Citibank",
+  "uploadLocation": "",
+  "dBLeadAnalyst": "All Team",
+  "jobMonitor": "Pre-Prod",
+  "projectManager": "SendwaveConsentOrder@epiqglobal.com",
+  "projectCoordinator": "SendwaveConsentOrder@epiqglobal.com",
+  "ccEmail": "SendwaveConsentOrder@epiqglobal.com",
+  "_class": "com.remediation.epiq.model.BankAccount"
+},
+{
+  "_id": {
+    "$oid": "669d1fa9bcf0b6775c664e85"
+  },
+  "caseName": "KeyBank - Master Project",
+  "caseNumber": "CA40054967",
+  "accountNumber": "359951044007",
+  "routingNumber": "041001039",
+  "currency": "USD",
+  "bankInstitute": "Key Bank",
+  "accountName": "Key Bank",
+  "uploadLocation": "",
+  "dBLeadAnalyst": "All Team",
+  "jobMonitor": "Pre-Prod",
+  "projectManager": "TeamHamershock@epiqglobal.com",
+  "projectCoordinator": "TeamHamershock@epiqglobal.com",
+  "ccEmail": "TeamHamershock@epiqglobal.com",
+  "_class": "com.remediation.epiq.model.BankAccount"
+},
+{
+  "_id": {
+    "$oid": "669d200fbcf0b6775c664e86"
+  },
+  "caseName": "WEX Bank Payment Verification Plan ",
+  "caseNumber": "CA40062257",
+  "accountNumber": "4011015449",
+  "routingNumber": "21313103",
+  "currency": "USD",
+  "bankInstitute": "Citizens",
+  "accountName": "Citizens",
+  "uploadLocation": "",
+  "dBLeadAnalyst": "All Team",
+  "jobMonitor": "Pre-Prod",
+  "projectManager": "TeamHamershock@epiqglobal.com",
+  "projectCoordinator": "TeamHamershock@epiqglobal.com",
+  "ccEmail": "TeamHamershock@epiqglobal.com",
+  "_class": "com.remediation.epiq.model.BankAccount"
 }]
